@@ -1,7 +1,16 @@
+# Prep 1 - Midterm #1
+
+Group Members 
+
+- Dana Huffman
+- Gina Napier
+- Jamall Malik
+- Vinny Shipley
+- Falashade 
 
 ## Cooperation Plan
 
-Key strengths:
+##Key strengths
 
 - Dana: Great with problem solving, and coding
 - Vinny: Understands concepts at high level and articulating solutions

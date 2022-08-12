@@ -32,12 +32,12 @@ If members are not adequately contributing we will approach the member professio
 
 ## Communication Plan
 
-Hours: 9am – 6pm PST with 1hr lunch starting at 12:00 PST
-Communication Platform: Slack group chat
-Breaks: take breaks at lunch and as necessary
-Catch-up plan: If we start to fall behind we will have another meeting at the end of the day to see if we met our goals and if we need to put more work in.
-After Hours Coms: We will still use Slack with respect to other’s personal time
-Comments: We will include everyone in the decisions made on the project.
+- Hours: 9am – 6pm PST with 1hr lunch starting at 12:00 PST
+- Communication Platform: Slack group chat
+- Breaks: take breaks at lunch and as necessary
+- Catch-up plan: If we start to fall behind we will have another meeting at the end of the day to see if we met our goals and if we need to put more work in.
+- After Hours Coms: We will still use Slack with respect to other’s personal time
+- Comments: We will include everyone in the decisions made on the project.
 
 ## Work Plan
 

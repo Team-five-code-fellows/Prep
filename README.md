@@ -18,11 +18,8 @@ Group Members
 - Falashade: Good with Organization and keeping postive attitude 
 - Gina: Great with Backend coding and visuals 
 
-These strengths can be best utilized by working together and pairing up the talent to best accomplish our tasks.
-
-We want to improve in public speaking, mastering the craft, and knowing the customer needs.
-
-We plan to approach the work day by utilizing the Trello board for organization and having a stand up meeting every morning to organize.
+These strengths can be best utilized by leaning on each others strengths and pairing up the talent to best accomplish our tasks.
+We plan to approach the work day by utilizing the Trello board for organization and having a three meetings day to stay on top of tasks and any concerns.
 
 ## Conflict Plan
 

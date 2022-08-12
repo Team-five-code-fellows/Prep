@@ -10,7 +10,7 @@ Group Members
 
 ## Cooperation Plan
 
-##Key strengths
+## Key strengths
 
 - Dana: Great with problem solving, and coding
 - Vinny: Understands concepts at high level and articulating solutions

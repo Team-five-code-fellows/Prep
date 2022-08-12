@@ -1,6 +1,8 @@
-# Pitch Ideas 
+# Group Project: Pitch Ideas 
 
-## Pitch - Wikipedia Scrape
+## Pitch 
+
+## Name of Project - Wikipedia Scraper Game
 
 ### Summary of idea
 
@@ -16,10 +18,10 @@ Navigate with wikipedia links scrapped from wiki page from the begining page to 
 
 - Has ability to navigate from one random page to another completely in the terminal
 
-**stretch Goal**
-- storing of scores
-- database intergration for previous routes and other implemation.
-- list out the route user took 
+**Stretch Goal**
+- Storing of scores
+- Database intergration for previous routes and other implemation.
+- List out the route user took 
 
 
 

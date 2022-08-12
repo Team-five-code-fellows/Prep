@@ -1,6 +1,6 @@
 # Prep 1 - Midterm #1
 
-Group Members 
+## Group Members 
 
 - Dana Huffman
 - Gina Napier
